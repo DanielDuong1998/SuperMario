@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 9915d5684fb2ae0489ea6de4431cf790
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6954271173507190389
+    second: poison-attack_0
+  - first:
+      213: 5546246742472874490
+    second: poison-attack_1
+  - first:
+      213: 3254446742514128719
+    second: poison-attack_2
+  - first:
+      213: 7371314554665472736
+    second: poison-attack_3
+  - first:
+      213: -6284125690770089150
+    second: poison-attack_4
+  - first:
+      213: -6456256909285097941
+    second: poison-attack_5
+  - first:
+      213: 9220586225317352076
+    second: poison-attack_6
+  - first:
+      213: 4029278054779012897
+    second: poison-attack_7
+  - first:
+      213: 6800618545114881679
+    second: poison-attack_8
+  - first:
+      213: 3464491888809208625
+    second: poison-attack_9
+  - first:
+      213: 6407974313708999905
+    second: poison-attack_10
+  - first:
+      213: 34237469368294126
+    second: poison-attack_11
+  - first:
+      213: 3248268727193141113
+    second: poison-attack_12
+  - first:
+      213: 4320661054599637687
+    second: poison-attack_13
+  - first:
+      213: 5480458786303402
+    second: poison-attack_14
+  - first:
+      213: 2703765426917674927
+    second: poison-attack_15
+  - first:
+      213: 6473676333142180856
+    second: poison-attack_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 19
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poison-attack_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 331
+        width: 169
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27785d6ed0b92d4d863bb0c78d3e627
+      internalID: 6954271173507190389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 331
+        width: 167
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9865c3e9c41c585418c314f42ba210b9
+      internalID: 5546246742472874490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 331
+        width: 166
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02057f320210fb3419041f3c564eca05
+      internalID: 3254446742514128719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 331
+        width: 164
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ef7f2ad45c97a419843ad1bafaff65
+      internalID: 7371314554665472736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_4
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 331
+        width: 163
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a3a6e416da51a4ba38080d23eb7de2
+      internalID: -6284125690770089150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_5
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 330
+        width: 163
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050a34559aba4784c90648a95687fb50
+      internalID: -6456256909285097941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 171
+        width: 164
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ed23e200286de489a707822df4717c
+      internalID: 9220586225317352076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 171
+        width: 165
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e104959cc6cf2424ea963581e5bb641f
+      internalID: 4029278054779012897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 171
+        width: 166
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fe7b20a343dd5469906e57ed62f1a2
+      internalID: 6800618545114881679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 172
+        width: 168
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b7c18728761324aa4549f7b6ebe50f
+      internalID: 3464491888809208625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_10
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 172
+        width: 170
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59988cfa8d68ec64bb5bdbfa9dd55688
+      internalID: 6407974313708999905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_11
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 172
+        width: 170
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e874f1b851d46a49b5e5688bef4c44b
+      internalID: 34237469368294126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 13
+        width: 170
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8c0e1b138cc63418397a9a8f1c994e
+      internalID: 3248268727193141113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 13
+        width: 166
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd97c6072aecaa448958ddb44fb6363
+      internalID: 4320661054599637687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 13
+        width: 166
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00900f4a7d0acd54d94d4fe431600fad
+      internalID: 5480458786303402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 13
+        width: 168
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9761a12289b4134a8dfcdb634af0b95
+      internalID: 2703765426917674927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poison-attack_16
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 13
+        width: 172
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d691171a221a748b8f62b5e47b5776
+      internalID: 6473676333142180856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

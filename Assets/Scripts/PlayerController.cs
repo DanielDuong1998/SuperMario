@@ -13,6 +13,8 @@ public class PlayerController : MonoBehaviour
     public LayerMask groundLayer;
     private bool isTouchingGround;
     private Animator playerAnimation;
+    public int ourHealth;
+    public int maxhealth = 111115;
     //public Vector3 respawnPoint;
     //public LevelManager gameLevelManager;
 
@@ -20,7 +22,8 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
-        playerAnimation = GetComponent<Animator>();  
+        playerAnimation = GetComponent<Animator>();
+        ourHealth = maxhealth;
     }
 
     void Update()
@@ -62,5 +65,11 @@ public class PlayerController : MonoBehaviour
         //{
         //    respawnPoint = other.transform.position;
         //}
+    }
+
+    public void Damage(int damage)
+    {
+        ourHealth -= damage;
+        gameObject.GetComponent<Animation>().Play("redFlash");
     }
 }
